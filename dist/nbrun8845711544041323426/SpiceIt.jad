@@ -1,0 +1,9 @@
+MIDlet-1: SpiceIt,/spice.png,SpiceIt
+MIDlet-Jar-Size: 1843819
+MIDlet-Jar-URL: SpiceIt.jar
+MIDlet-Name: SpiceIt
+MIDlet-Permissions: javax.microedition.io.Connector.http, javax.microedition.io.Connector.https
+MIDlet-Vendor: Lawrence Njoroge
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
